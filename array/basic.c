@@ -5,6 +5,6 @@ int main()
    printf("%d\n",&a[0]);
    printf("%p\n",&a);
    printf("%u\n",&a[0]);
-   printf("%u",a);
+   
     return 0;
 }
